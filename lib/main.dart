@@ -21,7 +21,7 @@ class _OmgCardState extends State<OmgCard> {
 
 
     return Scaffold(
-      backgroundColor: Colors.black,
+      backgroundColor: Colors.white,
       appBar: AppBar(
         title: const Text(
           'Player Overview',
