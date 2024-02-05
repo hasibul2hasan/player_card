@@ -26,7 +26,7 @@ class _OmgCardState extends State<OmgCard> {
         title: const Text(
           'Player Overview',
           style: TextStyle(
-            color: Colors.white,
+            color: Colors.black,
             fontWeight: FontWeight.bold,
           ),
         ),
